@@ -1,2 +1,2 @@
 # git-test
-Change is made from remote development branch
+amended local-dev in local branch
